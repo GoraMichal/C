@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lekcja9ListaSasiedztwa", "Lekcja9ListaSasiedztwa\Lekcja9ListaSasiedztwa.vcxproj", "{663BC0B4-B107-4414-8C0A-2F51BDE9D89D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{663BC0B4-B107-4414-8C0A-2F51BDE9D89D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{663BC0B4-B107-4414-8C0A-2F51BDE9D89D}.Debug|Win32.Build.0 = Debug|Win32
+		{663BC0B4-B107-4414-8C0A-2F51BDE9D89D}.Release|Win32.ActiveCfg = Release|Win32
+		{663BC0B4-B107-4414-8C0A-2F51BDE9D89D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
